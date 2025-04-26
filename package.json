@@ -1,0 +1,25 @@
+{
+  "name": "skill-craft",
+  "version": "1.0.0",
+  "description": "A Skill Learning website",
+  "homepage": "https://github.com/aaditya-06/Skill-Craft#readme",
+  "bugs": {
+    "url": "https://github.com/aaditya-06/Skill-Craft/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaditya-06/Skill-Craft.git"
+  },
+  "license": "ISC",
+  "author": "Aditya Nehare",
+  "type": "commonjs",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.0"
+  }
+}
